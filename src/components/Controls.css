@@ -1,0 +1,30 @@
+.controls {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  margin-bottom: 1.5rem;
+  font-family: sans-serif;
+}
+
+.controls span {
+  font-weight: 500;
+}
+
+.controls button {
+  padding: 0.5rem 1rem;
+  background: #556ee6;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.controls button:hover {
+  background: #4158c9;
+}
+
+.controls select {
+  margin-left: 0.5rem;
+  padding: 0.25rem;
+}

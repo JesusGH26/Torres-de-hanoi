@@ -1,0 +1,33 @@
+.pillar {
+  width: 120px;
+  height: 300px;
+  border: 2px solid #b0b8c1;
+  border-radius: 6px;
+  background: #fdfdfd;
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+  padding-bottom: 1rem;
+  cursor: pointer;
+  transition: background 0.2s ease;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.04);
+}
+
+.pillar.selected {
+  background: rgba(120, 140, 180, 0.2);
+}
+
+.pillar .disk:last-child {
+  animation: drop 0.3s ease;
+}
+
+@keyframes drop {
+  0% {
+    transform: translateY(-20px);
+    opacity: 0.5;
+  }
+  100% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}

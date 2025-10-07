@@ -1,0 +1,20 @@
+.disk {
+  height: 20px;
+  margin: 2px 0;
+  border-radius: 4px;
+  text-align: center;
+  color: white;
+  font-size: 0.8rem;
+  transition: all 0.4s ease;
+  transform: translateY(0);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08);
+}
+
+/* Colores por tamaño (menos saturados) */
+.disk:nth-child(1) { background: #aab7c4; }
+.disk:nth-child(2) { background: #9aa9b8; }
+.disk:nth-child(3) { background: #8a9ba8; }
+.disk:nth-child(4) { background: #7a8c98; }
+.disk:nth-child(5) { background: #6c7a89; }
+.disk:nth-child(6) { background: #5e6b7a; }
+.disk:nth-child(7) { background: #505c6b; }
