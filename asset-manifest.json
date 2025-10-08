@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tu-repo/static/css/main.9c1178c4.css",
-    "main.js": "/tu-repo/static/js/main.f5119656.js",
-    "static/js/453.5af221d8.chunk.js": "/tu-repo/static/js/453.5af221d8.chunk.js",
-    "index.html": "/tu-repo/index.html",
-    "main.9c1178c4.css.map": "/tu-repo/static/css/main.9c1178c4.css.map",
-    "main.f5119656.js.map": "/tu-repo/static/js/main.f5119656.js.map",
-    "453.5af221d8.chunk.js.map": "/tu-repo/static/js/453.5af221d8.chunk.js.map"
+    "main.css": "/Torres-de-hanoi/static/css/main.9c1178c4.css",
+    "main.js": "/Torres-de-hanoi/static/js/main.cb970cdd.js",
+    "static/js/453.5af221d8.chunk.js": "/Torres-de-hanoi/static/js/453.5af221d8.chunk.js",
+    "index.html": "/Torres-de-hanoi/index.html",
+    "main.9c1178c4.css.map": "/Torres-de-hanoi/static/css/main.9c1178c4.css.map",
+    "main.cb970cdd.js.map": "/Torres-de-hanoi/static/js/main.cb970cdd.js.map",
+    "453.5af221d8.chunk.js.map": "/Torres-de-hanoi/static/js/453.5af221d8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9c1178c4.css",
-    "static/js/main.f5119656.js"
+    "static/js/main.cb970cdd.js"
   ]
 }
