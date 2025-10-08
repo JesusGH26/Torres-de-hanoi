@@ -65,6 +65,8 @@ src/
    ```bash
    npm start
 
-4. Abre en tu navegador el link quue te aparecera.
+4. Abre en tu navegador el link que te aparecera (o si no quieres instalarlo usa el siguiente link)
 
-5. Disfruta el juego
+   ## https://jesusgh26.github.io/Torres-de-hanoi/
+
+6. Disfruta el juego
